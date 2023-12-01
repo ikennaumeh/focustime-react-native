@@ -7,7 +7,7 @@ import {
 } from 'react-native';
 import { colors } from './src/utils/colors';
 import { Focus } from './src/features/focus';
-import {Timer} from './src/components/Timer';
+import {Timer} from './src/features/Timer';
 import {FocusHistory} from './src/features/FocusHistory';
 
 export default function App() {
